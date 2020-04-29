@@ -1,0 +1,17 @@
+@font-face {
+    font-family: customFont;
+    src: url(../font/JF-Flat-regular.eot);
+    src: url(../font/JF-Flat-regular.svg);
+    src: url(../font/JF-Flat-regular.ttf);
+    src: url(../font/JF-Flat-regular.woff);
+}
+
+body {  
+    font-family: "customFont";
+    background-color: orange;
+} 
+
+
+.screen {
+  background-color: orange;
+}
